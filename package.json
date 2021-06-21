@@ -1,0 +1,23 @@
+{
+  "name": "cli-quiz-main",
+  "version": "1.0.0",
+  "description": "CLI based quiz app on how well you me",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vishal804/cli-quiz-main.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vishal804/cli-quiz-main/issues"
+  },
+  "homepage": "https://github.com/vishal804/cli-quiz-main#readme",
+  "dependencies": {
+    "chalk": "^4.1.1",
+    "readline-sync": "^1.4.10"
+  }
+}
