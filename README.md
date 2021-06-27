@@ -1,1 +1,1 @@
-CLI based quiz app on how well you me
+CLI based quiz app on how well you know me
